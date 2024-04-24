@@ -1,0 +1,5 @@
+Tipos de análisis:
+
+Análisis Univariado: analiza a cada variable por separado, entender sus característica.
+Análisis Bivariado: analiza la relacion de cada par de variables. Permite buscar relaciones intrinsecas entre los datos
+Análisis Multivariado: analiza el efecto simultaneo de multiples variables. Analiza la variables como un conjunto
